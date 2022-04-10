@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **thurain.dev@gmail.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThurainTun)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18655725/nay-thurain-tun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18655725/nay-thurain-tun" height="30" width="40" /></a>
