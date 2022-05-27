@@ -1,6 +1,6 @@
 <!-- ![alt text](https://github.com/ThurainTun/ThurainTun/blob/main/Programming-Languages-scaled.jpg) -->
 <h1 align="center">Hi 👋, I'm Nay Thurain Tun</h1>
-<h3 align="center">I am trying to become Fullstack Web Developer !</h3>
+<h3 align="center">Fullstack Web Developer !</h3>
 
 - 🌱 I’m currently learning **Lravel, Vue**
 
